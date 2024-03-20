@@ -1,0 +1,7 @@
+# Best (founded) cooling_rate for both (atsp, tsp) is 0.95
+
+# Temp. alpha for atsp <10^5, 10^6> (every +100)
+# Temp. alpha for tsp <10^6, 10^7> (every +100)
+
+# Amount of iterations for both (atsp, tsp) is <10^5, 10^6> (every +100)
+# For testing interations, temp. alpha is 1 000 000
